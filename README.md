@@ -8,7 +8,8 @@ I build production GenAI systems — turning natural language into governed, rel
 - 🧠 Focus areas: LLM evaluation, RAG, backend architecture, model reliability
 - 🧩 1000+ algorithmic problems solved across LeetCode & GeeksforGeeks
 - 📫 Reach me: sarita21042002@gmail.com
-- 💼 LinkedIn: [ms-sarita-jakhar](https://www.linkedin.com/in/ms-sarita-jakhar-5a5965202/)
+- 💼 LinkedIn: [ms-sarita-jakhar](https://www.linkedin.com/in/sarita-jakhar-5a5965202/)
+- 🌐 GitHub: [jakhar-ai-labs](https://github.com/jakhar-ai-labs/jakhar-ai-labs)
 
 ---
 
